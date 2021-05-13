@@ -140,3 +140,4 @@ if __name__ == '__main__':
             covid_data()
         elif 'stop' in search_text.lower():
             exit(0)
+         
